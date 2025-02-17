@@ -4,7 +4,7 @@ Python script for voltage glitching attacks against the code read protection (CR
 
 ## Demo Video
 
-A video demonstrating a voltage glitching attack using the [Pico Glitcher](https://mkesenheimer.github.io/blog/pico-glitcher-v2.html) and [findus](https://fault injection-library.readthedocs.io/) is available on YouTube: [Voltage Glitching with the Pico Glitcher and Findus](https://www.youtube.com/watch?v=3To4tyzmRsg):
+A video demonstrating a voltage glitching attack using the [Pico Glitcher](https://mkesenheimer.github.io/blog/pico-glitcher-v2.html) and [findus](https://fault-injection-library.readthedocs.io/) is available on YouTube: [Voltage Glitching with the Pico Glitcher and Findus](https://www.youtube.com/watch?v=3To4tyzmRsg):
 
 ![Voltage Glitching with the Pico Glitcher and Findus](images/picoglitcher_and_findus_video.jpg)
 
