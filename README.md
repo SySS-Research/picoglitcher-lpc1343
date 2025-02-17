@@ -1,6 +1,6 @@
 # LPC1343 PicoGlitcher
 
-Python script for voltage glitching attacks against the code read protection (CRP) of an [LPC1343](https://www.nxp.com/products/LPC1343FBD48) microcontroller using the [Pico Glitcher](https://mkesenheimer.github.io/blog/pico-glitcher-v2.html) and the fault-injection software library [findus](https://fault injection-library.readthedocs.io/) by Dr. Matthias Kesenheimer.
+Python script for voltage glitching attacks against the code read protection (CRP) of an [LPC1343](https://www.nxp.com/products/LPC1343FBD48) microcontroller using the [Pico Glitcher](https://mkesenheimer.github.io/blog/pico-glitcher-v2.html) and the fault-injection software library [findus](https://fault-injection-library.readthedocs.io/) by Dr. Matthias Kesenheimer.
 
 ## Demo Video
 
