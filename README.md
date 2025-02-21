@@ -8,6 +8,10 @@ A video demonstrating a voltage glitching attack using the [Pico Glitcher](https
 
 ![Voltage Glitching with the Pico Glitcher and Findus](images/picoglitcher_and_findus_video.jpg)
 
+## Blog article
+
+There is also a [SySS Tech Blog article](https://blog.syss.com/posts/voltage-glitching-with-picoglitcher-and-findus/) about this sample voltage glitching attack with [Pico Glitcher](https://mkesenheimer.github.io/blog/pico-glitcher-v2.html) and [findus](https://fault-injection-library.readthedocs.io/).
+
 ## Disclaimer
 
 Use at your own risk. Do not use without full consent of everyone involved.
